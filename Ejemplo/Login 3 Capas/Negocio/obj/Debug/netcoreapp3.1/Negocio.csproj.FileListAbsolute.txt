@@ -1,0 +1,14 @@
+C:\Users\ns_al\source\repos\Login 3 Capas\Negocio\bin\Debug\netcoreapp3.1\Negocio.deps.json
+C:\Users\ns_al\source\repos\Login 3 Capas\Negocio\bin\Debug\netcoreapp3.1\Negocio.dll
+C:\Users\ns_al\source\repos\Login 3 Capas\Negocio\bin\Debug\netcoreapp3.1\Negocio.pdb
+C:\Users\ns_al\source\repos\Login 3 Capas\Negocio\bin\Debug\netcoreapp3.1\Datos.dll
+C:\Users\ns_al\source\repos\Login 3 Capas\Negocio\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\ns_al\source\repos\Login 3 Capas\Negocio\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\ns_al\source\repos\Login 3 Capas\Negocio\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\ns_al\source\repos\Login 3 Capas\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.AssemblyReference.cache
+C:\Users\ns_al\source\repos\Login 3 Capas\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfoInputs.cache
+C:\Users\ns_al\source\repos\Login 3 Capas\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfo.cs
+C:\Users\ns_al\source\repos\Login 3 Capas\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ns_al\source\repos\Login 3 Capas\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CopyComplete
+C:\Users\ns_al\source\repos\Login 3 Capas\Negocio\obj\Debug\netcoreapp3.1\Negocio.dll
+C:\Users\ns_al\source\repos\Login 3 Capas\Negocio\obj\Debug\netcoreapp3.1\Negocio.pdb

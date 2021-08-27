@@ -1,0 +1,13 @@
+C:\Users\ns_al\source\repos\Veterianaria2\Veterianaria2\bin\Debug\netcoreapp3.1\Veterianaria2.exe
+C:\Users\ns_al\source\repos\Veterianaria2\Veterianaria2\bin\Debug\netcoreapp3.1\Veterianaria2.deps.json
+C:\Users\ns_al\source\repos\Veterianaria2\Veterianaria2\bin\Debug\netcoreapp3.1\Veterianaria2.runtimeconfig.json
+C:\Users\ns_al\source\repos\Veterianaria2\Veterianaria2\bin\Debug\netcoreapp3.1\Veterianaria2.runtimeconfig.dev.json
+C:\Users\ns_al\source\repos\Veterianaria2\Veterianaria2\bin\Debug\netcoreapp3.1\Veterianaria2.dll
+C:\Users\ns_al\source\repos\Veterianaria2\Veterianaria2\bin\Debug\netcoreapp3.1\Veterianaria2.pdb
+C:\Users\ns_al\source\repos\Veterianaria2\Veterianaria2\obj\Debug\netcoreapp3.1\Veterianaria2.csproj.AssemblyReference.cache
+C:\Users\ns_al\source\repos\Veterianaria2\Veterianaria2\obj\Debug\netcoreapp3.1\Veterianaria2.AssemblyInfoInputs.cache
+C:\Users\ns_al\source\repos\Veterianaria2\Veterianaria2\obj\Debug\netcoreapp3.1\Veterianaria2.AssemblyInfo.cs
+C:\Users\ns_al\source\repos\Veterianaria2\Veterianaria2\obj\Debug\netcoreapp3.1\Veterianaria2.csproj.CoreCompileInputs.cache
+C:\Users\ns_al\source\repos\Veterianaria2\Veterianaria2\obj\Debug\netcoreapp3.1\Veterianaria2.dll
+C:\Users\ns_al\source\repos\Veterianaria2\Veterianaria2\obj\Debug\netcoreapp3.1\Veterianaria2.pdb
+C:\Users\ns_al\source\repos\Veterianaria2\Veterianaria2\obj\Debug\netcoreapp3.1\Veterianaria2.genruntimeconfig.cache
